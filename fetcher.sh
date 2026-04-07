@@ -27,8 +27,8 @@ trap 'echo -e "\n${RED}❌ Ошибка на строке $LINENO${NC}" | tee -a
 # ============================================
 # 🛠 НАСТРОЙКИ РЕПОЗИТОРИЯ (ОБЯЗАТЕЛЬНО ЗАМЕНИТЕ!)
 # ============================================
-GH_USER="YOUR_USERNAME"
-GH_REPO="YOUR_REPO_NAME"
+GH_USER="naum-mm"
+GH_REPO="go-socks"
 GH_BRANCH="main"
 BASE_URL="https://raw.githubusercontent.com/${GH_USER}/${GH_REPO}/${GH_BRANCH}"
 
