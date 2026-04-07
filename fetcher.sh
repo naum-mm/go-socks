@@ -34,7 +34,7 @@ BASE_URL="https://raw.githubusercontent.com/${GH_USER}/${GH_REPO}/${GH_BRANCH}"
 
 # Список скриптов (в порядке установки)
 declare -a SCRIPTS=("installer.sh" "configurator.sh" "apache.sh" "helper.sh" "cleanup.sh")
-DIR_NAME="sosok"
+DIR_NAME="go-socks"
 
 # ============================================
 # ФУНКЦИИ
